@@ -210,7 +210,7 @@
             <mxPoint x="410" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DY6QuG5QsA_--3d-10Z9-51" value="Space Available" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DY6QuG5QsA_--3d-10Z9-50">
+        <mxCell id="DY6QuG5QsA_--3d-10Z9-51" value="Space Available - for ship n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DY6QuG5QsA_--3d-10Z9-50">
           <mxGeometry x="0.3031" relative="1" as="geometry">
             <mxPoint x="-15" y="-9" as="offset" />
           </mxGeometry>
